@@ -17,7 +17,7 @@ import com.example.my_online_meetings.src.Calendar.TomorrowTimeStamp;
  *
  * class-name: MainActivity.java
  * Project:
- * Conference Call, will helps the users to connect to Live-Meeting, without to type dtmf numbers, hands on.
+ * MY-Online-Meeting App, will helps the users to connect to Live-Meeting, without to type dtmf numbers, hands on.
  *
  * Description of the java-class:
  * This application Conference Call will make it easier to make live-meetings call.
@@ -148,7 +148,7 @@ public class MainActivity extends Activity {
     private String timeNow;
 
     // App version and Android version
-    private String ccVersion = "1.0(1)", androidVersion = "16 - 21";
+    private String ccVersion = "1.0(1)", androidVersion = "22 - 31";
 
     public MainActivity() { // Constructor
 
@@ -2464,14 +2464,13 @@ public class MainActivity extends Activity {
     public void dialogAlert() {
 
         String aboutmsg =
-                "Conference Call version: " + ccVersion  + "\nAndroid version: " + androidVersion
+                "My-Online-Meeting App version: " + ccVersion  + "\nAndroid version: " + androidVersion
                         + "\nDeveloped by Peter Albertsson.\n"
-                        + "Team Mobile Solution in Sweden.\n\n"
-                        + "The Conference Call will make it easier for the user to join the live meetings."
+                        + "The My-Online-Meeting APP Call will make it easier for the user to join the live meetings."
                         + " The user have not to type the digits to join the meeting,"
                         + " this is automatic done by the application."
                         + "Hope you will enjoy this mobile application.\n"
-                        + "\n? All rights is reserved by Capgemini Sweden AB | 2015";
+                        + "\n© All rights is reserved by Peter Albertsson | 2023";
 
         if (!aboutmsg.equals("")) {
 
