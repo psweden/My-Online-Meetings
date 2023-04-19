@@ -1,8 +1,8 @@
 
 /**
- * @ author: Peter Albertsson | Team mobile solutions | Capgemini Sverige AB
- * @ email: peter.albertsson@capgemini.com 
- * @ Date: 25 mar 2015
+ * @ author: Peter Albertsson
+ * @ email: peter.albertsson63@gmail.com
+ * @ Date: 19 april 2023
  * 
  * class-name: CompareMillisStartTime.java
  * Project:  

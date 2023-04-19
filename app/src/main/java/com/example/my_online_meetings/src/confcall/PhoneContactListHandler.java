@@ -2,9 +2,9 @@
  * 
  */
 /**
- * @ author: Peter Albertsson | Team mobile solutions | Capgemini Sverige AB
- * @ email: peter.albertsson@capgemini.com 
- * @ Date: 13 mar 2015
+ * @ author: Peter Albertsson
+ * @ email: peter.albertsson63@gmail.com
+ * @ Date: 19 april 2023
  * 
  * class-name: PhoneContactListHandler.java
  * Project:  
@@ -36,7 +36,9 @@ import android.util.Log;
 import android.widget.Toast;
 
 /**
- * @author pealbert
+ * @ author: Peter Albertsson
+ * @ email: peter.albertsson63@gmail.com
+ * @ Date: 19 april 2023
  *
  */
 public class PhoneContactListHandler {

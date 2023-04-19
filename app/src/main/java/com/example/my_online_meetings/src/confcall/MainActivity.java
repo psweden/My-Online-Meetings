@@ -11,9 +11,9 @@ import com.example.my_online_meetings.src.Calendar.TodayTimeStamp;
 import com.example.my_online_meetings.src.Calendar.TomorrowTimeStamp;
 
 /**
- * @ author: Peter Albertsson | Team mobile solutions | Capgemini Sverige AB
- * @ email: peter.albertsson@capgemini.com
- * @ Date: 20 feb 2015
+ * @ author: Peter Albertsson
+ * @ email: peter.albertsson63@gmail.com
+ * @ Date: 19 april 2023
  *
  * class-name: MainActivity.java
  * Project:
