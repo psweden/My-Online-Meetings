@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+    
+    <item android:title="@string/sub_about"
+        android:icon="@drawable/ic_action_about"
+    android:id="@+id/submenu_one" />
+    
+    
+  
+    <item android:title="@string/sub_settings"
+        android:icon="@drawable/ic_action_settings"
+    android:id="@+id/submenu_two" />
+    
+    
+    
+    <item android:title="@string/sub_handsfree_mode"
+        android:icon="@drawable/ic_action_headset"
+    android:id="@+id/submenu_three" />
+    
+    <item android:title="@string/sub_mobile"
+        android:icon="@drawable/ic_action_phone"
+    android:id="@+id/submenu_four" />
+    
+    
+    <item android:title="@string/sub_exit"
+        android:icon="@drawable/ic_action_cancel"
+    android:id="@+id/submenu_five" />
+
+</menu>

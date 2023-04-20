@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Conference Call</string>    
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search Meetings</string>
+    
+    <string name="muted">Muted microphone?</string>
+    <string name="muted_yes">Yes</string>
+    <string name="muted_no">No</string>
+        
+     <string name="handsfree_info">Text from java file </string>
+     
+     <string name="handsfreeonoff">Note: from java file! </string>
+     
+    <string name="autocall">Autocall to the meetings?</string>
+    <string name="autocall_yes">Yes</string>
+    <string name="autocall_no">No</string>
+    <string name="autocall_info">Will do autocall 2 minutes before the meeting start.</string>
+    
+    <string name="save">Save</string>
+    
+    <string name="handsfreemodeon">Handsfree!</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_menu">Menu</string>
+    
+    <string name="spinner_header">Select country!</string>
+    
+    <string name="today_meeting_1">Today meeting 1</string>
+    <string name="today_meeting_2">Today meeting 2</string>
+    <string name="today_meeting_3">Today meeting 3</string>
+    <string name="today_meeting_4">Today meeting 4</string>
+    <string name="today_meeting_5">Today meeting 5</string>
+    <string name="today_meeting_6">Today meeting 6</string>
+    <string name="today_meeting_7">Today meeting 7</string>
+    <string name="today_meeting_8">Today meeting 8</string>
+    <string name="today_meeting_9">Today meeting 9</string>
+    <string name="today_meeting_10">Today meeting 10</string>
+    
+    <string name="tomorrow_meeting_1">Tomorrow meeting 1</string>
+    <string name="tomorrow_meeting_2">Tomorrow meeting 2</string>
+    <string name="tomorrow_meeting_3">Tomorrow meeting 3</string>
+    <string name="tomorrow_meeting_4">Tomorrow meeting 4</string>
+    <string name="tomorrow_meeting_5">Tomorrow meeting 5</string>
+    <string name="tomorrow_meeting_6">Tomorrow meeting 6</string>
+    <string name="tomorrow_meeting_7">Tomorrow meeting 7</string>
+    <string name="tomorrow_meeting_8">Tomorrow meeting 8</string>
+    <string name="tomorrow_meeting_9">Tomorrow meeting 9</string>
+    <string name="tomorrow_meeting_10">Tomorrow meeting 10</string>
+    
+    <string name="today_default">Today Default</string>
+    <string name="tomorrow_default">Tomorrow Default</string>
+    
+    <string name="today_meetings">Live - Meetings</string>
+    <string name="tomorrow_meetings">Live - Meetings | Tomorrow</string>
+    <string name="date_timestamp">Date: 2015:02:26 | Time: 10:46</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="sub_about">About</string>
+    <string name="sub_settings">Settings</string>
+    <string name="sub_handsfree_mode">Handsfree</string>
+    <string name="sub_mobile">Mobile</string>
+    <string name="sub_exit">Exit</string>
+
+</resources>
